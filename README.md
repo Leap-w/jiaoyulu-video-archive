@@ -1,13 +1,13 @@
 # 焦裕禄影音资料库 · Jiao Yulu Audio-Visual Archive
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-deployed-brightgreen)](https://your-username.github.io/your-repo)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-deployed-brightgreen)](https://leap-w.github.io/jiaoyulu-video-archive/)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 > 红色档案中的榜样力量 · 焦裕禄精神专题学习资源
 
 一个静态网页，汇集有关**焦裕禄同志**的珍贵历史影像、纪录片、专题节目及影视作品，通过档案影像回顾焦裕禄同志为党和人民无私奉献的一生，感悟焦裕禄精神的时代价值。
 
-A static web page curating precious historical footage, documentaries, feature programs, and film adaptations about **Comrade Jiao Yulu** — a model Communist Party cadre known for his selfless dedication to the people.
+A static web page curating precious historical footage, documentaries, feature programs, 和 film adaptations about **Comrade Jiao Yulu** — a model Communist Party cadre known for his selfless dedication to the people.
 
 ---
 
